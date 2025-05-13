@@ -15,7 +15,9 @@ Here's a little about me:
 - **Tools & Platforms:** Git, Azure, AWS, Microsoft Fabric, Databricks, SQL Server, MySQL, PostgreSQL, Docker,   
 
 ## 📈 GitHub Stats
-![Guadalupe's GitHub stats](https://github-readme-stats.vercel.app/api?username=gquintal&show_icons=true&theme=radical)
+![Guadalupe's GitHub stats](https://github-readme-stats.vercel.app/api?username=gquintal&show_icons=true&theme=material-palenight)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gquintal&layout=compact) -->
 
 ## 🤝 Let's Connect
 - 🌍 [Personal Website/Portfolio](https://pages.github.com/)
