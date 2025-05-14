@@ -54,7 +54,7 @@ Here's a little about me:
 ## 🤝 Let's Connect
 - 🌍 [Personal Website/Portfolio](https://pages.github.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gquintal09/)
-- 📧 Email me at **guadalupe.quintalv@gmail.com**
+- 📧 Email me at **gquintalv@protonmail.com**
 
 ---
 
