@@ -10,7 +10,7 @@ Here's a little about me:
 - 🎯 Goal: **Contribute to open-source projects in 2025**
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages:** Python, Java, SQL, PySpark, C++ and C#]
+- **Programming Languages:** Python, Java, SQL, PySpark, C++ and C#
 - **Frameworks & Libraries:** Spring Boot, Node.js
 
 ## 🗺️ Likes and Special Interests
