@@ -5,7 +5,7 @@ Here's a little about me:
 
 ## 🚀 About Me
 - 💻 I specialize in **Database Developer, Backend Developer, Azure Data Engineer, Cloud Engineer and DevOps Engineer**
-- 🌱 Currently learning **Cybersecurity and AWS**
+- 🌱 Currently learning **Cybersecurity and Amazon AWS**
 - 🔭 Currently working on: **Personal and Freelance Cloud Projects**
 - 🎯 Goal: **Contribute to open-source projects in 2025**
 
