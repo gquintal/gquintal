@@ -16,9 +16,10 @@ Here's a little about me:
 ## 🗺️ Likes and Special Interests
 
 ✈️ &nbsp;Travel<br>
-🎬 &nbsp;Movies<br>
-🎞️ &nbsp;Series<br>
+🐕 &nbsp;Pets<br>
 🧑‍💻 &nbsp;Code<br>
+🎞️ &nbsp;Series<br>
+🎬 &nbsp;Movies<br>
 
 ### Tools & Platforms
 
